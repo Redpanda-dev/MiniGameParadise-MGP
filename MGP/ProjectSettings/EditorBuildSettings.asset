@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 16afbe869472e074f98b40b12a9400a1
+  - enabled: 1
+    path: Assets/Scenes/RoofyJump.unity
+    guid: dedcc3c4f2c7f7440b9be494a9262a91
+  - enabled: 1
+    path: Assets/Scenes/HappyFellows 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HappyFellows 2.unity
+    guid: dcfa70720aff86f4abdded0781554de8
+  - enabled: 1
+    path: Assets/Scenes/HappyFellows 3.unity
+    guid: 838293a2d5ff6a94c98ab7899332c33d
+  - enabled: 1
+    path: Assets/Scenes/HappyFellows 4.unity
+    guid: cc3497dc3b1c85c4db4882a84fe13369
+  - enabled: 1
+    path: Assets/Scenes/HappyFellows 5.unity
+    guid: ef189e4e6a8a0f5419d7da96250b61c7
+  m_configObjects: {}
