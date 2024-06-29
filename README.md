@@ -48,5 +48,5 @@
 > [!NOTE]
 > Also there is no background music assets since, I did not own any rights to the background music I originally used. 
 
-# HOW-TO-USE:
-## Simply clone the repository and download the assets listed above, drop them into the "assets"-folder. Might need to do some configuring with the prefabs etc., also need to drop the wanted background music into the "MusicSource". Tried to make the code as self-explainatory as possible.
+## HOW-TO-USE:
+Simply clone the repository and download the assets listed above, drop them into the "assets"-folder. Might need to do some configuring with the prefabs etc., also need to drop the wanted background music into the "MusicSource". Tried to make the code as self-explainatory as possible.
